@@ -1,0 +1,130 @@
+/**
+ * IcoMoon Free Icons (fonts & stylesheet)
+ * License: GPL / CC BY 4.0
+ */
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?8qm1rx');
+  src: url('fonts/icomoon.eot?8qm1rx#iefix') format('embedded-opentype'),
+  url('fonts/icomoon.ttf?8qm1rx') format('truetype'),
+  url('fonts/icomoon.woff?8qm1rx') format('woff'),
+  url('fonts/icomoon.svg?8qm1rx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-warning-triangle:before {
+  content: "\e91f";
+}
+.icon-alternatives:before {
+  content: "\e91e";
+}
+.icon-trophy:before {
+  content: "\e91c";
+}
+.icon-calendar:before {
+  content: "\e91d";
+}
+.icon-comment:before {
+  content: "\e904";
+}
+.icon-cart:before {
+  content: "\e900";
+}
+.icon-info:before {
+  content: "\e901";
+}
+.icon-return:before {
+  content: "\e902";
+}
+.icon-question:before {
+  content: "\e903";
+}
+.icon-bell:before {
+  content: "\e905";
+}
+.icon-arrow-up:before {
+  content: "\e906";
+}
+.icon-arrow-down:before {
+  content: "\e907";
+}
+.icon-close:before {
+  content: "\e908";
+}
+.icon-check:before {
+  content: "\e909";
+}
+.icon-minus:before {
+  content: "\e90a";
+}
+.icon-plus:before {
+  content: "\e90b";
+}
+.icon-big-arrow-right:before {
+  content: "\e90e";
+}
+.icon-search:before {
+  content: "\e90f";
+}
+.icon-exclamation:before {
+  content: "\e910";
+}
+.icon-outside-edit:before {
+  content: "\e911";
+}
+.icon-refresh:before {
+  content: "\e912";
+}
+.icon-settings:before {
+  content: "\e913";
+}
+.icon-copy:before {
+  content: "\e914";
+}
+.icon-delete:before {
+  content: "\e915";
+}
+.icon-edit:before {
+  content: "\e916";
+}
+.icon-eye:before {
+  content: "\e917";
+}
+.icon-thin-arrow-left:before {
+  content: "\e918";
+}
+.icon-thin-arrow-right:before {
+  content: "\e919";
+}
+.icon-template:before {
+  content: "\e91a";
+}
+.icon-mockup:before {
+  content: "\e91b";
+}
+.icon-star:before {
+  content: "\e9d9";
+}
+.icon-star-empty:before {
+  content: "\e9d7";
+}
+.icon-star-half:before {
+  content: "\e9d8";
+}
+

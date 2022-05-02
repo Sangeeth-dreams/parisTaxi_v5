@@ -1,0 +1,19 @@
+.dropdown-input-image[data-v-3fae0b70] {
+ object-fit:contain;
+ width:25px;
+ height:25px
+}
+.dropdown-input__menu-up[data-v-3fae0b70] {
+ top:unset;
+ bottom:100%;
+ border-top:1px solid rgba(0,0,0,.15)!important;
+ border-top-left-radius:5px;
+ border-top-right-radius:5px;
+ border-bottom-right-radius:0;
+ border-bottom-left-radius:0
+}
+.disabled[data-v-3fae0b70] {
+ background-color:#eee;
+ opacity:1;
+ cursor:not-allowed
+}

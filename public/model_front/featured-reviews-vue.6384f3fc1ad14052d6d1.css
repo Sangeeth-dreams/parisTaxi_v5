@@ -1,0 +1,25 @@
+.review-thumbnail {
+ width:124px;
+ height:124px;
+ background:50% no-repeat;
+ background-size:cover
+}
+@media (max-width:991.98px) {
+ .review-thumbnail {
+  width:200px;
+  height:200px
+ }
+}
+@media (max-width:767.98px) {
+ .review-thumbnail {
+  margin-right:12px!important;
+  width:124px;
+  height:124px
+ }
+}
+@media (max-width:539.98px) {
+ .review-thumbnail {
+  width:100px;
+  height:100px
+ }
+}

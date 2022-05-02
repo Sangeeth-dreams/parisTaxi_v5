@@ -1,0 +1,18 @@
+.back-to-top-button__icon[data-v-38388e76] {
+ transition:transform .3s cubic-bezier(.4,.22,.28,1)
+}
+.back-to-top-button__text[data-v-38388e76] {
+ text-decoration:underline
+}
+.back-to-top-button[data-v-38388e76]:focus,
+.back-to-top-button[data-v-38388e76]:hover {
+ outline:0
+}
+.back-to-top-button:focus .back-to-top-button__text[data-v-38388e76],
+.back-to-top-button:hover .back-to-top-button__text[data-v-38388e76] {
+ text-decoration:none
+}
+.back-to-top-button:focus .back-to-top-button__icon[data-v-38388e76],
+.back-to-top-button:hover .back-to-top-button__icon[data-v-38388e76] {
+ transform:translateY(-.3em)
+}

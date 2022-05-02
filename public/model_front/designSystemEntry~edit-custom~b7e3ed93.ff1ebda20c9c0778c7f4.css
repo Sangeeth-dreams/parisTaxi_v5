@@ -1,0 +1,22 @@
+.pagination__page[data-v-0f4a6e61] {
+ min-width:35px
+}
+.pagination__arrow-page[data-v-0f4a6e61] {
+ width:40px;
+ height:40px;
+ margin-right:0;
+ margin-left:0
+}
+.pagination__arrow-page__first[data-v-0f4a6e61] {
+ margin-right:-1px!important
+}
+.pagination__arrow-page__last[data-v-0f4a6e61] {
+ margin-left:-1px!important
+}
+.pagination__no-arrows[data-v-0f4a6e61] {
+ margin-left:80px;
+ height:40px
+}
+.pagination[data-v-0f4a6e61] .invalid .pf-form-control {
+ border-color:#ed4642!important
+}

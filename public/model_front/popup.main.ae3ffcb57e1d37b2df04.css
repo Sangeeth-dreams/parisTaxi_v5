@@ -1,0 +1,78 @@
+.holiday-popup .modal-header {
+ border-bottom:none;
+ z-index:9;
+ position:relative
+}
+.holiday-popup .modal-body {
+ padding-bottom:0
+}
+.holiday-popup .modal-body .row {
+ margin-left:-20px;
+ margin-right:-20px
+}
+.holiday-popup .modal-body .whitesmoke {
+ padding:10px 80px
+}
+.holiday-popup .modal-body .whitesmoke p {
+ padding:15px 0
+}
+.holiday-popup .modal-body .whitesmoke .button-container {
+ margin-bottom:10px
+}
+.holiday-popup .modal-body .header-image {
+ width:100%;
+ margin:-69px auto 0
+}
+.modal-popup--centered {
+ float:left;
+ left:50%;
+ top:50%;
+ transform:translate(-50%,-50%)!important
+}
+.timed-popup {
+ position:relative
+}
+.timed-popup__thumbnail {
+ width:100%;
+ vertical-align:top
+}
+.timed-popup__label,
+.timed-popup__thumbnail {
+ cursor:pointer
+}
+.timed-popup__title {
+ font-weight:700;
+ font-size:16px;
+ line-height:1.5
+}
+@media (max-width:539.98px) {
+ .timed-popup__title-responsive {
+  font-size:14px;
+  line-height:1.4
+ }
+}
+.timed-popup__text {
+ font-weight:400
+}
+.timed-popup__close {
+ position:absolute;
+ top:0;
+ right:0;
+ line-height:1;
+ cursor:pointer
+}
+.order-popup__profit-calculator {
+ background-color:#f8f8f8;
+ border:1px solid #e5e5e5;
+ color:#555
+}
+.order-popup__profit-calculator>.row {
+ margin:0
+}
+.order-popup__profit-calculator>.row>.col-xs-12 {
+ padding-left:0;
+ padding-right:0
+}
+.order-popup__profit-calculator>.row:not(:first-of-type) {
+ border-top:1px solid #e5e5e5
+}
